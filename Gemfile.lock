@@ -1,0 +1,16 @@
+GEM
+  specs:
+    gosu (1.2.0)
+    math (0.0.1)
+    ruby2d (0.9.5)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  gosu
+  math
+  ruby2d
+
+BUNDLED WITH
+   2.2.3
